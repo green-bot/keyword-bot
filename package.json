@@ -1,0 +1,23 @@
+{
+  "name": "keyword-bot",
+  "description": "A simple responder bot. Listens for a keyword, then responds as you would like",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bundle exec ruby bot.rb",
+    "install": "bundle install",
+    "doc": "generate_docs.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/green-bot/keyword-bot.git"
+  },
+  "keywords": [
+    "green-bot",
+    "greenbot",
+    "bot",
+    "bashbot"
+  ],
+  "author": "Thomas Howe",
+  "license": "MIT",
+  "version": "0.1.0"
+}
