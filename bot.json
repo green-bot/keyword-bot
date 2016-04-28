@@ -46,7 +46,7 @@
     "name": "KEYWORD_9",
     "value": "keyword: replace me for response for keyword",
     "type": "text"
-  },
+  }],
   "desc": "A simple keyword responder bot",
   "icon_class": "information",
   "name": "keyword-bot",
