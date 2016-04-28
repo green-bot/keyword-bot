@@ -52,5 +52,5 @@
   "name": "keyword-bot"
   "owner_cmd": "",
   "short_desc": "A simple keyword responder bot",
-  "repo_link": "git@github.com/green-bot/keyword-bot.git"
+  "repo_link": "https://github.com/green-bot/keyword-bot"
 }]
