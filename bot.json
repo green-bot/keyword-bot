@@ -49,7 +49,7 @@
   },
   "desc": "A simple keyword responder bot",
   "icon_class": "information",
-  "name": "keyword-bot"
+  "name": "keyword-bot",
   "owner_cmd": "",
   "short_desc": "A simple keyword responder bot",
   "repo_link": "https://github.com/green-bot/keyword-bot"
